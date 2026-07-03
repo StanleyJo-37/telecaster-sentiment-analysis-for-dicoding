@@ -1,0 +1,10 @@
+nltk
+beautifulsoup4
+
+transformers
+
+pandas
+scikit-learn
+numpy
+
+seaborn
